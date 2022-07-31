@@ -18,6 +18,8 @@
 
 ### This project took around 6 hours to complete.
 
+### Project Link : [Link](https://interior-design-page-dashboard.netlify.app/)
+
 ### Screenshot
 
-![](./screenshot/Screenshot%20(29).png)
+![](./screenshot/Proj10.png)
