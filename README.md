@@ -21,4 +21,4 @@
 
 ### Screenshot
 
-![](./screenshot/Proj10.png)
+![](./screenshot/PROJ_10.png)
