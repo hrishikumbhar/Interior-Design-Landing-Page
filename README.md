@@ -1,4 +1,4 @@
-# Assignment 1
+# Project 10
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -8,7 +8,6 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-# Project 10
 
 ### What I Learned from this Project?
 
@@ -18,7 +17,7 @@
 
 ### This project took around 6 hours to complete.
 
-### Project Link : [Link](https://interior-design-page-dashboard.netlify.app/)
+### Project Link : [Link](https://proj-10-interior-design-page.netlify.app/)
 
 ### Screenshot
 
